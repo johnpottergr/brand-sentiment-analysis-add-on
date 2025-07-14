@@ -1,8 +1,6 @@
 # brand-sentiment-analysis-add-on
 
-n8n: Add a node to audit_workflow.json:
-----
-
+- n8n: Add a node to audit_workflow.json:
 
 {
   "name": "Run Sentiment Analysis",
@@ -14,6 +12,6 @@ n8n: Add a node to audit_workflow.json:
 
 
 ----
-Google Sheets: Import sentiment_output.csv into a “Sentiment” tab; link sentiment_visualization.html.
-Content Cluster Visualization: Use embedding column in sentiment_output.csv as input to visualization.py.
+- Google Sheets: Import sentiment_output.csv into a “Sentiment” tab; link sentiment_visualization.html.
+- Content Cluster Visualization: Use embedding column in sentiment_output.csv as input to visualization.py.
 
