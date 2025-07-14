@@ -1,0 +1,10 @@
+fastapi==0.115.0
+pydantic==2.9.2
+requests==2.32.3
+openai==1.47.0
+beautifulsoup4==4.12.3
+sentence-transformers==3.1.1
+numpy==1.26.4
+pandas==2.2.3
+plotly==5.24.1
+uvicorn==0.31.0
