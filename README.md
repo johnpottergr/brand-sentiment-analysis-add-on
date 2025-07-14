@@ -1,4 +1,4 @@
-# brand-sentiment-analysis-add-on
+# brand-sentiment-analysis-add-on @ llmvisibility.co
 
 - n8n: Add a node to audit_workflow.json:
 
